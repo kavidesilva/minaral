@@ -327,7 +327,7 @@ img {
 	outline: 0px none;
 }
 a {
-	color: rgb(226, 186, 186);
+	color: rgb(9, 0, 10);
 	cursor: pointer;
 	text-decoration: none;
 }
@@ -811,7 +811,7 @@ form label.error {
 /*padding*/
 .section-padding {
 	padding-top: 120px;
-	padding-bottom: 120px;
+	padding-bottom: 0px;
 }
 .section-padding-t {
 	padding-top: 120px;
@@ -3505,7 +3505,7 @@ form .error {
 	margin: 0;
 	list-style: none;
 	text-align: right;
-	float: right;
+	float:none;
 	display: inline-block;
 }
 .post-share .post-share-social a {
