@@ -249,7 +249,7 @@ slideShow {  0% {
 }
 @media only screen and (max-width: 480px) {
 .play-icon-lg {
-	font-size: 36px;
+	font-size: 50px;
 	height: 95px;
 	line-height: 89px;
 	margin: auto;
@@ -2293,7 +2293,7 @@ form label.error {
 .intro-content-inner {
 	display: table-cell;
 	height: 100%;
-	vertical-align: middle;
+	
 }
 .intro-img-circle {
 	margin-left: auto;
@@ -2799,7 +2799,7 @@ ul.icon-tab-nav li, .icon-tab-nav ul li {
 	text-align: center;
 }
 .client-logo img {
-	height: 100%;
+	height: 93%;
 }
 /*------------------------------------------------------------------*/
 /* Social */
