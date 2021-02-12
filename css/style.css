@@ -230,7 +230,7 @@ slideShow {  0% {
 	background-color: rgba(34, 34, 34, 0.3);
 }
 .overlay-dark40:before {
-	background-color: rgba(34, 34, 34, 0.4);
+	background-color: rgba(39, 39, 39, 0.575);
 }
 .overlay-dark60:before {
 	background-color: rgba(34, 34, 34, 0.6);
@@ -448,7 +448,7 @@ h6.alt-title {
 }
 p {
 	font-size: 14px;
-	color: #fdfdfd;
+	color: #070505;
 	line-height: 1.6;
 	font-weight: 400;
 	margin-bottom: 15px;
@@ -2374,7 +2374,7 @@ form label.error {
  .bg-image {
  background-position: center center;
  background-repeat: no-repeat;
- background-size: inherit;
+ background-size: cover;
  display: block;
  overflow: hidden;
  position: relative;
