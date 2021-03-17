@@ -1737,7 +1737,7 @@ form label.error {
  height: 58px;
 }
  .header-inner {
- padding-left: 30px;
+ padding-left: 38px;
  padding-right: 30px;
  position: relative;
  display: table;
@@ -1747,7 +1747,8 @@ form label.error {
  margin-top: 15px;
  margin-bottom: 15px;
  width: 100px;
- transition: all 0.3s ease 0s;
+ transition: all 0.3s ea
+ se 0s;
  -o-transition: all 0.3s ease 0s;
  -moz-transition: all 0.3s ease 0s;
  -webkit-transition: all 0.3s ease 0s;
@@ -1776,7 +1777,7 @@ form label.error {
 	
 	position: absolute;
 	top: -19;
-	left: 0;
+	left: -35px;
 	transition: all 0.27s cubic-bezier(0, 0, 0.58, 1) 0s;
 	-o-transition: all 0.27s cubic-bezier(0, 0, 0.58, 1) 0s;
 	-moz-transition: all 0.27s cubic-bezier(0, 0, 0.58, 1) 0s;
