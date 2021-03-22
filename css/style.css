@@ -2591,7 +2591,7 @@ ul.icon-tab-nav li, .icon-tab-nav ul li {
 	-webkit-transition: all 0.3s ease 0s;
 }
 .icon-tab-nav a.active, .icon-tab-nav a.active .icon-tab-nav-title,  .icon-tab-nav a:hover, .icon-tab-nav a:hover .icon-tab-nav-title {
-	color: #8a238c;
+	color: #e21de2;
 }
 /*------------------------------------------------------------------*/
 /* Accordion & Toggle*/
